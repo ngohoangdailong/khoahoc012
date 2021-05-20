@@ -13,11 +13,6 @@
 	<META NAME="ScaleCrop" CONTENT="false">
 	<META NAME="ShareDoc" CONTENT="false">
 	
-		@page { size: 8.5in 11in; margin-left: 0.39in; margin-right: 0.33in; margin-top: 0.3in; margin-bottom: 1in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
 </HEAD>
 <BODY LANG="en-US" LINK="#0000ff" BGCOLOR="#ffffff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-top: 0.08in; background: #ffffff; line-height: 120%">
